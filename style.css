@@ -124,7 +124,7 @@ h1, h2, h3, h4, h5, h6, p {
 
 .pop-up-content {
     background: #ffffff;
-    max-width: 400px; /* Batasi ukuran maksimal */
+    max-width: 400px;
     width: 50%;
     padding: 60px;
     display: flex;
